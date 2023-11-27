@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Testimonials</name>
+   <tag></tag>
+   <elementGuidId>c2c8316c-6a4d-4093-b8ca-c2d5b905b6cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div[2]/div/div/div[3]/div[2]/div[2]/ul/li[4]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.collapse.navbar-collapse.pull-right > ul.header-menu.clearfix > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-6374 > ul.sub-menu > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5295 > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>efa9bf9d-018f-48d4-9d8b-52f63dfb8604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://nxtgenaiacademy.com/testimonials/</value>
+      <webElementGuid>91dd68fa-47d3-4bf4-ac1c-45f4f831d3ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testimonials</value>
+      <webElementGuid>d19ac1d3-2862-47cb-880e-cbea2cb2c4e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header_default header_default&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 col-sm-9 col-sm-offset-0 hidden-xs hidden-sm&quot;]/div[@class=&quot;header_main_menu_wrapper clearfix&quot;]/div[@class=&quot;collapse navbar-collapse pull-right&quot;]/ul[@class=&quot;header-menu clearfix&quot;]/li[@class=&quot;menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6374&quot;]/ul[@class=&quot;sub-menu&quot;]/li[@class=&quot;menu-item menu-item-type-post_type menu-item-object-page menu-item-5295&quot;]/a[1]</value>
+      <webElementGuid>d8ea485f-e2ab-4528-bfa4-2705252fe89d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div[2]/div/div/div[3]/div[2]/div[2]/ul/li[4]/ul/li[2]/a</value>
+      <webElementGuid>76c4dbc3-a002-478a-841b-d0b51691806d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Testimonials')])[2]</value>
+      <webElementGuid>38e98562-da41-467d-a790-adca51ab5e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TechTalk'])[2]/following::a[1]</value>
+      <webElementGuid>92f45c69-2cea-4055-90a5-f4521a21f23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Me'])[2]/following::a[2]</value>
+      <webElementGuid>e542fc25-e0c9-41b8-b25b-7518ce376658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Python for Automation'])[2]/preceding::a[1]</value>
+      <webElementGuid>865eb865-3f6c-4413-940b-8185d5bc75eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Automation Courses'])[2]/preceding::a[2]</value>
+      <webElementGuid>d1a99cbd-ce2e-44b5-868e-6525a477f84d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://nxtgenaiacademy.com/testimonials/')])[2]</value>
+      <webElementGuid>6e5f66c5-42d6-41f6-90c0-b70308b02309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/ul/li[2]/a</value>
+      <webElementGuid>5d6a381b-03d3-49f0-827b-989cec2696a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://nxtgenaiacademy.com/testimonials/' and (text() = 'Testimonials' or . = 'Testimonials')]</value>
+      <webElementGuid>c361dda2-eca3-4196-93d0-1466aea76c83</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

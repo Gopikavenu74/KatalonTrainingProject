@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Search_img-responsive logo_transparent_static visible</name>
+   <tag></tag>
+   <elementGuidId>6064914b-7340-467d-a682-411f62525a7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header']/div[2]/div/div/div/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-responsive.logo_transparent_static.visible</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>2c97d250-ba86-4cd8-85d9-9f2d812b6278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive logo_transparent_static visible</value>
+      <webElementGuid>bfe4b9fb-674c-4d0b-bf55-4c7cdc7c6e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://nxtgenaiacademy.com/wp-content/uploads/2021/01/cropped-NxtGen-Logo.jpeg</value>
+      <webElementGuid>785369ce-a81e-4520-a437-7cec69da4364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>NxtGen A.I Academy</value>
+      <webElementGuid>3d405b79-b8a5-4a73-8a4a-edbe80305d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;header_default header_default&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-12 col-xs-12&quot;]/div[@class=&quot;logo-unit&quot;]/a[1]/img[@class=&quot;img-responsive logo_transparent_static visible&quot;]</value>
+      <webElementGuid>e9cdb9ba-389e-4bd8-8f31-6e9d17b21166</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header']/div[2]/div/div/div/div/a/img</value>
+      <webElementGuid>81624ab9-43f3-4d8a-85b5-68daa39198d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='NxtGen A.I Academy']</value>
+      <webElementGuid>c7ac1f0b-0562-4eca-b363-09fea045e78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>ba0f8db0-5199-44a1-988a-26fad4b1e375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://nxtgenaiacademy.com/wp-content/uploads/2021/01/cropped-NxtGen-Logo.jpeg' and @alt = 'NxtGen A.I Academy']</value>
+      <webElementGuid>d2127c69-20ad-4be3-8371-554870e467af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

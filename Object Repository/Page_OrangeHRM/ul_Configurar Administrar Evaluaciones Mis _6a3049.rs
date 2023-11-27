@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Configurar Administrar Evaluaciones Mis _6a3049</name>
+   <tag></tag>
+   <elementGuidId>faaf87ac-47de-400f-88d9-cb2c33d2279b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/header/div[2]/nav/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nav.oxd-topbar-body-nav > ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>176289e3-d019-4c3b-a30a-ed6cb4672379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Configurar Administrar Evaluaciones Mis BúsquedasBuscadores de Empleados</value>
+      <webElementGuid>f03adde3-7918-47b9-ad65-3cb0199b2ea9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-navigation&quot;]/header[@class=&quot;oxd-topbar&quot;]/div[@class=&quot;oxd-topbar-body&quot;]/nav[@class=&quot;oxd-topbar-body-nav&quot;]/ul[1]</value>
+      <webElementGuid>4a33915c-0a38-4e44-bae9-9cb019c9355e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/header/div[2]/nav/ul</value>
+      <webElementGuid>db09ccd5-644c-481b-910b-afbad727aac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/ul</value>
+      <webElementGuid>e51f3d25-64e9-49fa-bcae-53c4ce408a6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'Configurar Administrar Evaluaciones Mis BúsquedasBuscadores de Empleados' or . = 'Configurar Administrar Evaluaciones Mis BúsquedasBuscadores de Empleados')]</value>
+      <webElementGuid>1cbd1f8e-86a8-45f9-9b92-c16deecacc23</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
